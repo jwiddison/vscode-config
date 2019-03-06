@@ -1,0 +1,9 @@
+code --install-extension aliariff.auto-add-brackets
+code --install-extension DavidAnson.vscode-markdownlint
+code --install-extension mikestead.dotenv
+code --install-extension mjmcloug.vscode-elixir
+code --install-extension ms-vscode.atom-keybindings
+code --install-extension msjsdiag.debugger-for-chrome
+code --install-extension PeterJausovec.vscode-docker
+code --install-extension rebornix.ruby
+code --install-extension waderyan.gitblame
