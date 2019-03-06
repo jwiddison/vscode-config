@@ -1,0 +1,19 @@
+{
+  "atomKeymap.promptV3Features": true,
+  "editor.fontFamily": "Hack Nerd Font",
+  "editor.fontSize": 16,
+  "editor.formatOnPaste": true,
+  "editor.scrollBeyondLastLine": false,
+  "editor.tabSize": 2,
+  "editor.wordWrap": "on",
+  "explorer.autoReveal": false,
+  "files.autoSave": "onFocusChange",
+  "files.insertFinalNewline": true,
+  "files.trimTrailingWhitespace": true,
+  "terminal.integrated.fontFamily": "Hack Nerd Font",
+  "window.nativeTabs": true,
+  "workbench.editor.closeOnFileDelete": true,
+  "workbench.editor.enablePreviewFromQuickOpen": false,
+  "workbench.tree.indent": 20,
+  "ruby.intellisense": "rubyLocate"
+}
